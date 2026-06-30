@@ -1,16 +1,32 @@
-def greet():Heeeeeey
-    print("Hello, Nodejs Developer-1!")
-    print("Hello, Python Developer-2!")
-    print("Hello, PHP Developer-2!"
-hello From Frontend Developer
-HELLO DEVOPS ENGINEER
-          Most Talented Mentor of Lab - RANJIT KUMAR SHAMAL && RITIL PATI
-<<<<<<< HEAD
-          PRATEEKSHA GANGWAR
-=======
-          TIME WASTE MENTOR --ABINASH KUMAR
-DEVOPS DREAM IS ABOUT TO SUCCESS
-          3 MONTHS LEFT ONLY
+import json
+import logging
 
-greet()
-]
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+
+def lambda_handler(event, context):
+    """
+    Basic Lambda handler template
+    """
+    logger.info(f"Event received: {json.dumps(event)}")
+
+    try:
+        # --- Your logic here ---
+        result = "Lambda executed successfully"
+        # ------------------------
+
+        return {
+            'statusCode': 200,
+            'body': json.dumps({
+                'message': result
+            })
+        }
+
+    except Exception as e:
+        logger.error(f"Error: {str(e)}")
+        return {
+            'statusCode': 500,
+            'body': json.dumps({
+                'error': str(e)
+            })
+        }
