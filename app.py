@@ -6,5 +6,6 @@ hello From Frontend Developer
 HELLO DEVOPS ENGINEER
           Dream Biggg
           Be Slefish and Greddy
+          be selfishgi
 greet()
-Ranjit Sir & ritik pati
+Ranjit Lab Sir & ritik Ranjan pati Twinkle Pati
