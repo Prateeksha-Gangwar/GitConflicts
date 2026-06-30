@@ -5,4 +5,5 @@ def greet():
     print("Hello, Python Developer-2!")
 >>>>>>> af281b930fb72b70726a44508972e3850084279e
 Hello From Backend Developer
+HELLO DEVOPS ENGINEER
 greet()
