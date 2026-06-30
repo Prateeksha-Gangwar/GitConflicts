@@ -5,5 +5,6 @@ def greet():Heeeeeey
 hello From Frontend Developer
 HELLO DEVOPS ENGINEER
           Most Talented Mentor of Lab - RANJIT KUMAR SHAMAL && RITIL PATI
+          TIME WASTE MENTOR --ABINASH KUMAR
 greet()
 ]
