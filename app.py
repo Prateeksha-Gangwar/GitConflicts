@@ -4,8 +4,6 @@ def greet():Heeeeeey
     print("Hello, PHP Developer-2!"
 hello From Frontend Developer
 HELLO DEVOPS ENGINEER
-          Dream Biggg
-          Be Slefish and Greddy
-          be selfishgi
+          Most Talented Mentor of Lab - RANJIT KUMAR SHAMAL && RITIL PATI
 greet()
-Ranjit Lab Sir & ritik Ranjan pati Twinkle Pati
+]
