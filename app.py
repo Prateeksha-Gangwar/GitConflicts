@@ -9,6 +9,6 @@ HELLO DEVOPS ENGINEER
           PRATEEKSHA GANGWAR
 =======
           TIME WASTE MENTOR --ABINASH KUMAR
->>>>>>> deab6f3ecd9aeaabedba43c1c0ccecefd93185fa
+DEVOPS DREAM IS ABOUT TO SUCCESS
 greet()
 ]
